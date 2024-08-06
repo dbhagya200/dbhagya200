@@ -9,7 +9,7 @@
          alt="Title"/>
 </div>
 # 💫 About Me:
- -💳 My full name is Dilini Bhagya Warnekulasooriya<br>- 🏫 I'm currently a 1st year student at Institute of Java Software Engineering<br>- 🌏 I live in Galle, Sri Lanka<br>
+ -💳 My full name is Dilini Bhagya Warnekulasooriya<br>- 🏫 I'm currently a 1st year student at Institute of Software Engineering<br>- 🌏 I live in Galle, Sri Lanka<br>
  <img aling ="right" alt ="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
