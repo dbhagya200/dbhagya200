@@ -1,7 +1,7 @@
 ![header](https://github.com/dbhagya200/dbhagya200/blob/main/cover.jpg)
 <div align="center">
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/dbhagya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dbhagya?style=social"> &nbsp;&nbsp; <img alt="dbhagya | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/dbhagya200?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dbhagya200?style=social"> &nbsp;&nbsp; <img alt="dbhagya200 | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 </div>
 <div align="center">
 <br>
