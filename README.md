@@ -1,4 +1,4 @@
-![header](https://i.pinimg.com/originals/58/11/90/581190db42066db7895977ce3b0c24bf.jpg)
+![header](https://github.com/dbhagya200/dbhagya200/blob/main/cover.jpg)
 <div align="center">
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/rashidya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/rashidya?style=social"> &nbsp;&nbsp; <img alt="rashidya | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
