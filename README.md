@@ -34,5 +34,16 @@
   <img src="https://camo.githubusercontent.com/0a2ad6802b01b5805e82ce62aa32eb2eae7c4b4dc56bc0a9039b10fd376690d7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d64626861677961323030267468656d653d6461726b26686964655f626f726465723d66616c7365" />
  
 </div>
+<br>
+<div align="center">
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" align="center"> <br>
+
+## For More Information, Please Check Out or Contact Me Via
+
+</div>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- <img src="https://visitcount.itsvg.in/api?id=dbhagya200&icon=0&color=0)](https://visitcount.itsvg.in"/>
+<div align="center">
+  :heart_eyes: 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝<br/>
+Have a nice day! :wink: <br/>
+  &copy; Dilini Bhagya Warnekulasooriya
+</div>
